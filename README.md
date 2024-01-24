@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-elkaramany&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elkaramany" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salma-elkaramany" alt="salma-elkaramany" /></a> </p>
-
 - 🔭 I’m currently working on **TravelBooth** - a cross-platform application aimed for travel enthusiasts who want to socialise with like-minded individuals!
 
 - 🌱 I’m currently learning **React Native**
