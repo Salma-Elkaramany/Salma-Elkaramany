@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Salma!</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+</div>
+
+
+<h1 align="center">Hey there 👋, I'm Salma!</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-elkaramany&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elkaramany" /> </p>
